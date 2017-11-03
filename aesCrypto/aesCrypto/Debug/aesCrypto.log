@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\users\matthew\documents\visual studio 2015\projects\aescrypto\aescrypto\source.cpp(263): warning C4305: 'initializing': truncation from '__int64' to 'unsigned int'
+e:\users\matthew\documents\visual studio 2015\projects\aescrypto\aescrypto\source.cpp(263): warning C4309: 'initializing': truncation of constant value
+  aesCrypto.vcxproj -> e:\Users\Matthew\Documents\Visual Studio 2015\Projects\aesCrypto\Debug\aesCrypto.exe
+  aesCrypto.vcxproj -> e:\Users\Matthew\Documents\Visual Studio 2015\Projects\aesCrypto\Debug\aesCrypto.pdb (Partial PDB)
